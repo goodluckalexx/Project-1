@@ -8,6 +8,8 @@
 
 Initially 90% of total supply is locked for 10 years and 10 percentages are for liquidity. 
 
+---
+
 -	Smart Contract Address Link
 -	Bsc scan Link 
 -	Gakcoin Swap Link 
@@ -22,6 +24,8 @@ Initially 90% of total supply is locked for 10 years and 10 percentages are for 
 -Link information of locked token
 
 ## Roadmap 
+
+----
 
 **Phase1**
 - [x]	Smart contract Coding
